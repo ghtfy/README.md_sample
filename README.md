@@ -57,3 +57,13 @@
 # 구분선 나누기
 
 " --- " or " *** " 처럼 -,*을 3개 연속으로 쓰면 됨.
+
+---
+
+# 코드 블록
+<img width="676" height="341" alt="Image" src="https://github.com/user-attachments/assets/7668bcb9-28c7-44ab-b151-52e76e7d69a8" />
+
+" ``` " 처럼 숫자 1 옆에있는거 3개 연속으로 쓰고 앞 뒤로 닫기
+예를 들면 
+```csharp
+int score = 0;```
