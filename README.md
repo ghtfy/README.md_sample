@@ -63,7 +63,8 @@
 # 코드 블록
 <img width="676" height="341" alt="Image" src="https://github.com/user-attachments/assets/7668bcb9-28c7-44ab-b151-52e76e7d69a8" />
 
-" ``` " 처럼 숫자 1 옆에있는거 3개 연속으로 쓰고 앞 뒤로 닫기
+" ``` " 처럼 숫자 1 옆에있는거 3개 연속으로 쓰고 csharp입력 후 코드 입력하기
 예를 들면 
+
 ```csharp
 int score = 0;
